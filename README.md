@@ -9,8 +9,8 @@ I am a passionate developer focused on **Delta Chat**, **WebXDC**, and building 
   - 🔗 [Source](https://github.com/omidz4t/deltachat-telegram-bridge-bot) | [📦 Releases](https://github.com/omidz4t/deltachat-telegram-bridge-bot/releases)
 
 ### 🛠️ Utils
-- **[WebxdcCapture](https://github.com/omidz4t/WebxdcCapture)** — A browser extension to capture web pages and package them directly into `.xdc` files.
-  - 🔗 [Source](https://github.com/omidz4t/WebxdcCapture) | [📦 Releases](https://github.com/omidz4t/WebxdcCapture/releases)
+- **[WebxdcCapture](https://github.com/omidz4t/WebxdcCapture)** — A browser extension to capture web pages and package them into `.xdc` files. (_Ongoing project_)
+  - 🔗 [Source](https://github.com/omidz4t/WebxdcCapture)
 
 ### 🎮 WebXDC Apps
 - **[webxdc-news-reader](https://github.com/omidz4t/webxdc-news-reader)** — An ultra low-size (<150KB) feed reader for offline batched Telegram news inside Delta Chat.
@@ -19,6 +19,10 @@ I am a passionate developer focused on **Delta Chat**, **WebXDC**, and building 
   - 🔗 [Source](https://github.com/omidz4t/agario-xdc) | [📦 Releases](https://github.com/omidz4t/agario-xdc/releases)
 - **[realFinger3](https://github.com/omidz4t/realFinger3)** — A fun WebXDC realtime finger game.
   - 🔗 [Source](https://github.com/omidz4t/realFinger3) | [📦 Releases](https://github.com/omidz4t/realFinger3/releases)
+
+
+
+--- 
 
 
 

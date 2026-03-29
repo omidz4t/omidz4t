@@ -2,7 +2,7 @@
 
 Software developer focused on decentralized communication and minimal user interfaces for **Delta Chat** and **WebXDC**.
 
-Part of **[the-mad-org](https://github.com/the-mad-org)**, currently working on **[madmail](https://github.com/the-mad-org/madmail)** and **[deltachat.wiki](https://deltachat.wiki)**.
+Part of **[the-mad-org](https://github.com/themadorg)**, currently working on **[madmail](https://github.com/themadorg/madmail)** and **[deltachat.wiki](https://deltachat.wiki)**.
 
 ---
 

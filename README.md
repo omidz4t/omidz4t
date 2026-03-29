@@ -2,6 +2,8 @@
 
 Software developer focused on decentralized communication and minimal user interfaces for **Delta Chat** and **WebXDC**.
 
+Part of **[the-mad-org](https://github.com/the-mad-org)**, currently working on **[madmail](https://github.com/the-mad-org/madmail)** and **[deltachat.wiki](https://deltachat.wiki)**.
+
 ---
 
 ### 🟢 Maintaining
@@ -9,7 +11,7 @@ _Projects I currently support and use._
 
 #### **WebXDC Apps**
 - **[webxdc-news-reader](https://github.com/omidz4t/webxdc-news-reader)**  
-  Ultra low-size (<150KB) feed reader for offline batched Telegram news. 
+  low-size (<150KB) feed reader for offline batched Telegram news. 
 - **[agario-xdc](https://github.com/omidz4t/agario-xdc)**  
   Multiplayer Agar.io-style game fully contained in a WebXDC package.
 - **[realFinger3](https://github.com/omidz4t/realFinger3)**  

@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Omid
 
-<!--
-**omidz4t/omidz4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer focused on **Delta Chat**, **WebXDC**, and building secure, decentralized communication tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Bots
+- **[deltachat-telegram-bridge-bot](https://github.com/omidz4t/deltachat-telegram-bridge-bot)** — A bridge bot that seamlessly connects Telegram channels to Delta Chat groups.
+  - 🔗 [Source](https://github.com/omidz4t/deltachat-telegram-bridge-bot) | [📦 Releases](https://github.com/omidz4t/deltachat-telegram-bridge-bot/releases)
+
+### 🛠️ Utils
+- **[WebxdcCapture](https://github.com/omidz4t/WebxdcCapture)** — A browser extension to capture web pages and package them directly into `.xdc` files.
+  - 🔗 [Source](https://github.com/omidz4t/WebxdcCapture) | [📦 Releases](https://github.com/omidz4t/WebxdcCapture/releases)
+
+### 🎮 WebXDC Apps
+- **[webxdc-news-reader](https://github.com/omidz4t/webxdc-news-reader)** — An ultra low-size (<150KB) feed reader for offline batched Telegram news inside Delta Chat.
+  - 🔗 [Source](https://github.com/omidz4t/webxdc-news-reader) | [📦 Releases](https://github.com/omidz4t/webxdc-news-reader/releases)
+- **[agario-xdc](https://github.com/omidz4t/agario-xdc)** — A multiplayer Agar.io-style game fully contained within a Delta Chat WebXDC package.
+  - 🔗 [Source](https://github.com/omidz4t/agario-xdc) | [📦 Releases](https://github.com/omidz4t/agario-xdc/releases)
+- **[realFinger3](https://github.com/omidz4t/realFinger3)** — A fun WebXDC realtime finger game.
+  - 🔗 [Source](https://github.com/omidz4t/realFinger3) | [📦 Releases](https://github.com/omidz4t/realFinger3/releases)
+
+
+
+### 📬 Chatmail
+- **[relay-ir](https://github.com/omidz4t/relay-ir)** — A relay implementation for Iroh discovery within Delta Chat networks. (⚠️ _Not maintained_)
+  - 🔗 [Source](https://github.com/omidz4t/relay-ir) | [📦 Releases](https://github.com/omidz4t/relay-ir/releases)
+
+---
+
+✨ _Feel free to reach out for collaborations or questions regarding Delta Chat development!_

@@ -18,6 +18,8 @@ _Projects I currently support and use._
   Realtime multiplayer finger-pointing game.
 - **[excalidraw-webxdc](https://github.com/omidz4t/excalidraw-webxdc)**  
   Realtime Excalidraw port for webxdc. [[releases](https://github.com/omidz4t/excalidraw-webxdc/releases)]
+- **[vikunja-webxdc](https://github.com/omidz4t/vikunja-webxdc)** (Planner)  
+  Collaborative task management for webxdc, forked from Vikunja. [[releases](https://github.com/omidz4t/vikunja-webxdc/releases)]
 - **[terminal-buddy-webxdc](https://github.com/omidz4t/terminal-buddy-webxdc)**  
   Shared terminal over Delta Chat, one binary, mini app embedded. [[releases](https://github.com/omidz4t/terminal-buddy-webxdc/releases)]
 

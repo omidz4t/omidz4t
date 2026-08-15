@@ -25,6 +25,8 @@ _Projects I currently support and use._
 
 
 #### **Bots**
+- **[portal](https://github.com/omidz4t/portal)**  
+  Bidirectional Telegram ↔ Delta Chat bridge for text, stickers, GIFs, images, and short video. [[site](https://omidz4t.github.io/portal)]
 - **[deltachat-telegram-bridge-bot](https://github.com/omidz4t/deltachat-telegram-bridge-bot)**  
   Seamless bridge connecting Telegram channels to Delta Chat groups.
 

@@ -9,12 +9,9 @@ Part of **[the-mad-org](https://github.com/themadorg)**, currently working on **
 ### 🟢 Maintaining
 _Projects I currently support and use._
 
+#### **WebXDC Apps**
 - **[xeditor](https://github.com/omidz4t/xeditor)**  
   Collaborative markdown editor for WebXDC (Svelte, Yjs). [[site](https://omidz4t.github.io/xeditor)] [[releases](https://github.com/omidz4t/xeditor/releases)]
-- **[portal](https://github.com/omidz4t/portal)**  
-  Bidirectional Telegram ↔ Delta Chat bridge for text, stickers, GIFs, images, and short video. [[site](https://omidz4t.github.io/portal)] [[releases](https://github.com/omidz4t/portal/releases)]
-
-#### **WebXDC Apps**
 - **[webxdc-news-reader](https://github.com/omidz4t/webxdc-news-reader)**  
   low-size (<150KB) feed reader for offline batched Telegram news. 
 - **[agario-xdc](https://github.com/omidz4t/agario-xdc)**  
@@ -27,6 +24,10 @@ _Projects I currently support and use._
   Collaborative task management for webxdc, forked from Vikunja. [[releases](https://github.com/omidz4t/vikunja-webxdc/releases)]
 - **[terminal-buddy-webxdc](https://github.com/omidz4t/terminal-buddy-webxdc)**  
   Shared terminal over Delta Chat, one binary, mini app embedded. [[releases](https://github.com/omidz4t/terminal-buddy-webxdc/releases)]
+
+#### **Bots**
+- **[portal](https://github.com/omidz4t/portal)**  
+  Bidirectional Telegram ↔ Delta Chat bridge for text, stickers, GIFs, images, and short video. [[site](https://omidz4t.github.io/portal)] [[releases](https://github.com/omidz4t/portal/releases)]
 
 ---
 

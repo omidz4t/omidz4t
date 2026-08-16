@@ -22,6 +22,8 @@ _Projects I currently support and use._
   Collaborative task management for webxdc, forked from Vikunja. [[releases](https://github.com/omidz4t/vikunja-webxdc/releases)]
 - **[terminal-buddy-webxdc](https://github.com/omidz4t/terminal-buddy-webxdc)**  
   Shared terminal over Delta Chat, one binary, mini app embedded. [[releases](https://github.com/omidz4t/terminal-buddy-webxdc/releases)]
+- **[xeditor](https://github.com/omidz4t/xeditor)**  
+  Collaborative markdown editor for WebXDC (Svelte, Yjs).
 
 
 #### **Bots**

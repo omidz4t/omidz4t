@@ -27,8 +27,6 @@ _Projects I currently support and use._
 #### **Bots**
 - **[portal](https://github.com/omidz4t/portal)**  
   Bidirectional Telegram ↔ Delta Chat bridge for text, stickers, GIFs, images, and short video. [[site](https://omidz4t.github.io/portal)]
-- **[deltachat-telegram-bridge-bot](https://github.com/omidz4t/deltachat-telegram-bridge-bot)**  
-  Seamless bridge connecting Telegram channels to Delta Chat groups.
 
 ---
 
@@ -43,6 +41,8 @@ _Experiments and ongoing development._
 ### ⚪ Staled
 _Legacy projects, no longer maintained._
 
+- **[deltachat-telegram-bridge-bot](https://github.com/omidz4t/deltachat-telegram-bridge-bot)**  
+  Telegram → Delta Chat channel relay. Unmaintained; use **[portal](https://github.com/omidz4t/portal)** instead.
 - **[relay-ir](https://github.com/omidz4t/relay-ir)**  
   Iroh discovery relay for Delta Chat.
 
